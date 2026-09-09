@@ -36,6 +36,7 @@
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0213-house-robber-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
