@@ -51,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0525-contiguous-array) |
