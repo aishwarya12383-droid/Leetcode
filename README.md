@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Rolling Hash
 |  |
@@ -80,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -87,4 +89,12 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
