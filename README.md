@@ -21,6 +21,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0173-binary-search-tree-iterator](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0213-house-robber-ii) |
@@ -51,6 +53,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
