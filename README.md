@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
@@ -131,4 +132,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
