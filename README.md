@@ -43,6 +43,7 @@
 | [0525-contiguous-array](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -135,5 +136,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
