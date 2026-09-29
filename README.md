@@ -45,6 +45,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
