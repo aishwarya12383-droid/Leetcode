@@ -46,6 +46,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0213-house-robber-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
@@ -138,4 +141,8 @@
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
