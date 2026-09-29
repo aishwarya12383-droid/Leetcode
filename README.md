@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0872-leaf-similar-trees](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0872-leaf-similar-trees](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Iterator
 |  |
 | ------- |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
