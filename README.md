@@ -55,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0213-house-robber-ii) |
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -147,9 +149,14 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0872-leaf-similar-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
