@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0164-maximum-gap](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0213-house-robber-ii) |
@@ -133,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -162,4 +164,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
