@@ -11,6 +11,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0856-score-of-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0242-valid-anagram](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0856-score-of-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/aishwarya12383-droid/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Rolling Hash
 |  |
@@ -155,6 +157,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aishwarya12383-droid/Leetcode/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aishwarya12383-droid/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Depth-First Search
 |  |
